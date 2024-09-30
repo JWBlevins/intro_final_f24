@@ -1,4 +1,5 @@
-My name is Janeth. Intro Final repo. 
+My name is Janeth. Working on Intro Final Repo
+  
 
 # Code:You Intro Final Repo
 
@@ -74,7 +75,7 @@ Update the website with information.
 2. In `index.html`, replace the placeholder image (`https://via.placeholder.com/150`) with your own:
 
    ```html
-   <img src="img/your-photo.jpg" alt="Your Name">
+   <img src="img/jpg" alt="Janeth Blevins">
    ```
 
    - Replace `your-photo.jpg` with the actual filename of your image.
